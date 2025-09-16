@@ -1,7 +1,0 @@
-# Ignore VS Code settings folder
-.vscode/
-
-# Optional: ignore other Java/IDE files
-*.class
-*.jar
-*.log
